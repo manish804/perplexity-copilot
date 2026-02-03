@@ -16,7 +16,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: 'Perplexity Research Copilot',
+  title: 'Perplexity Research Copilot by Sharlin Build with TRAE ',
   description: 'A crazy research copilot powered by Perplexity AI',
 };
 
