@@ -54,7 +54,7 @@ export function AppShell({ children, sidebar }: AppShellProps) {
                         >
                             {isSidebarOpen ? <X className="h-5 w-5" /> : <Menu className="h-5 w-5" />}
                         </Button>
-                        <h1 className="text-2xl font-bold glow-text">Perplexity Research Copilot</h1>
+                        <h1 className="text-2xl font-bold glow-text">Perplexity Research Copilot by Sharlin Build with TRAE</h1>
                     </div>
                     <div className="flex items-center gap-2">
                         <ThemeToggle />
